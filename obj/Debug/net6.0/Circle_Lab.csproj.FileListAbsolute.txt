@@ -1,0 +1,15 @@
+C:\Users\me\class-dev\Circle_Lab\bin\Debug\net6.0\Circle_Lab.exe
+C:\Users\me\class-dev\Circle_Lab\bin\Debug\net6.0\Circle_Lab.deps.json
+C:\Users\me\class-dev\Circle_Lab\bin\Debug\net6.0\Circle_Lab.runtimeconfig.json
+C:\Users\me\class-dev\Circle_Lab\bin\Debug\net6.0\Circle_Lab.dll
+C:\Users\me\class-dev\Circle_Lab\bin\Debug\net6.0\Circle_Lab.pdb
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\Circle_Lab.csproj.AssemblyReference.cache
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\Circle_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\Circle_Lab.AssemblyInfoInputs.cache
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\Circle_Lab.AssemblyInfo.cs
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\Circle_Lab.csproj.CoreCompileInputs.cache
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\Circle_Lab.dll
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\refint\Circle_Lab.dll
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\Circle_Lab.pdb
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\Circle_Lab.genruntimeconfig.cache
+C:\Users\me\class-dev\Circle_Lab\obj\Debug\net6.0\ref\Circle_Lab.dll
